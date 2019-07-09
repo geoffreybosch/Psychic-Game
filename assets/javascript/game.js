@@ -12,9 +12,9 @@ function updateAnswer(){
 
 updateAnswer()
 function printGuesses(){
-    var guessesLeft = 9-guesses.length
+    var guessesLeft = 8-guesses.length
     if (guesses.includes(event.key)){
-        alert`You've already guessed that letter!`
+        console.log`Letter already guessed`
     }
     else{
         guesses.push(event.key);
