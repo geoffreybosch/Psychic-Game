@@ -43,7 +43,3 @@ function printGuesses(){
 document.onkeydown = printGuesses;
 
 
-
-document.onkeydown = printGuesses;
-
-
