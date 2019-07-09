@@ -1,0 +1,27 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    display: block;
+    background-color: rgb(255,145,0);
+    font-family: Helvetica, sans-serif;
+    width: 60%;
+    height: 8000px;
+    margin-left: 15%;
+    margin-top: 5%;
+    padding: 5%
+}
+
+h1{
+    font-size: 250%;
+    color: white;
+
+}
+
+.stats {
+    font-size: 125%;
+    color: white;
+    font-weight: bold;
+}
